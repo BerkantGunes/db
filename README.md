@@ -1,0 +1,1 @@
+sql lesson in MsSQL
